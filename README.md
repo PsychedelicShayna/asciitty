@@ -1,5 +1,7 @@
 # Asciitty - Byte Visualization Swiss Army Knife 
 ![](demo.png)
+![](demo2.png)
+![](demo3.png)
 
 I'll let the help text explain for now. I'm too sleep deprived to further explain the utility at the moment.
 
